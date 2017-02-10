@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: test-subscription-api3
+  host: localhost
+  encoding: utf8
+  min_messages: warning
